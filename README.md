@@ -1,12 +1,13 @@
-# Lakshmi
+# Lakshmi Priya
 
-**Python · Optimisation · Data operations | Exam scheduling & workflow automation at NPTEL**
+**Senior Programme & Digital Operations Leader · NPTEL, IIT Madras**
 
-I work on NPTEL operations, turning manual scheduling and reporting work into repeatable,
-checked tools. My focus is exam planning: taking course lists, registration history and
-domain mappings and producing schedules that follow the rules and can be rerun every semester.
+13+ years leading national-scale digital education operations at NPTEL. I also build tools
+that turn manual scheduling and reporting work into repeatable, checked processes. The main one
+is exam planning: taking course lists, registration history and domain mappings and producing
+schedules that follow the rules and can be rerun every semester.
 
-[LinkedIn](https://www.linkedin.com/in/lakshmi-priya-42583275/) · [Email](mailto:priyamalthy2010@gmail.com)
+[Portfolio](https://lakshmi0511.github.io/) · [LinkedIn](https://www.linkedin.com/in/lakshmi-priya-42583275/) · [Email](mailto:priyamalthy2010@gmail.com)
 
 ## Projects
 
