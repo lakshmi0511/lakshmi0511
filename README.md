@@ -1,4 +1,4 @@
-# Lakshmi Priya
+# Lakshmi Priya R
 
 **Senior Programme & Digital Operations Leader · NPTEL, IIT Madras**
 
